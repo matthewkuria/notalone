@@ -1,0 +1,7 @@
+Extract the files from the zip folder
+Open in VS Code or any IDE of your choice
+Go to the contacts page that is contacts.html
+Locate Our Support Team
+Modify member 1, 2 and 3
+Change images, headings and contact details of the members
+save the page.
